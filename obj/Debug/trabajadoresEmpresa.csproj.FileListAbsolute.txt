@@ -1,0 +1,9 @@
+C:\Users\MONTIEL\source\repos\trabajadoresEmpresa\trabajadoresEmpresa\bin\Debug\trabajadoresEmpresa.exe.config
+C:\Users\MONTIEL\source\repos\trabajadoresEmpresa\trabajadoresEmpresa\bin\Debug\trabajadoresEmpresa.exe
+C:\Users\MONTIEL\source\repos\trabajadoresEmpresa\trabajadoresEmpresa\bin\Debug\trabajadoresEmpresa.pdb
+C:\Users\MONTIEL\source\repos\trabajadoresEmpresa\trabajadoresEmpresa\obj\Debug\trabajadoresEmpresa.csproj.AssemblyReference.cache
+C:\Users\MONTIEL\source\repos\trabajadoresEmpresa\trabajadoresEmpresa\obj\Debug\trabajadoresEmpresa.Properties.Resources.resources
+C:\Users\MONTIEL\source\repos\trabajadoresEmpresa\trabajadoresEmpresa\obj\Debug\trabajadoresEmpresa.csproj.GenerateResource.cache
+C:\Users\MONTIEL\source\repos\trabajadoresEmpresa\trabajadoresEmpresa\obj\Debug\trabajadoresEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\MONTIEL\source\repos\trabajadoresEmpresa\trabajadoresEmpresa\obj\Debug\trabajadoresEmpresa.exe
+C:\Users\MONTIEL\source\repos\trabajadoresEmpresa\trabajadoresEmpresa\obj\Debug\trabajadoresEmpresa.pdb
